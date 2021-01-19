@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const IndexPage = () => (
   <Layout>
     <h1 style={{fontSize: 72, color: "blue", textDecoration: "underline"}}>Welcome to my Gastby Project Home Page</h1>
-    <p style={{fontStyle: "italic"}}>
+    <p style={{fontStyle: "italic", fontWeight:'bold'}}>
     Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
     when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
